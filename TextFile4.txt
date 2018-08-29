@@ -2,3 +2,4 @@ TextFile4 change from another client
 Commit TextFile4
 TextFile4 change
 Petar write from SourceTreeTestSecond
+Petar write from SourceTreeTest
