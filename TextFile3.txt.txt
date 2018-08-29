@@ -1,1 +1,1 @@
-Commit with new branch (Issue_6)
+Commit with new branch (Issue_6).
